@@ -17,8 +17,8 @@
 
 *individualised 3D printing*
 * radiator grill
-* lock cylinder
-* cap of throttle [this is actually the lock cylinder, only the 3D printing got interrupted midway]
+* ignition switch
+* cap of throttle [this is actually the ignition switch, only the 3D printing got interrupted midway]
 
 *wood arrangements*
 * throttle
