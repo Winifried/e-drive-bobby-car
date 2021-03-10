@@ -8,7 +8,7 @@ This was my first attempt. The car essentially has, next to the stearing wheel, 
 
 Heres the setup:
 <center>
-![final_car](https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg) {width=50% } </center>
+![final_car](https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg | width=48) </center>
 
 
 Forward (left) and (possibly the only true reason requiring) reverse (right) <br>
