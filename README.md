@@ -11,7 +11,7 @@ Heres the setup:
 
 
 
-Forward (left) and (possibly the only true reason requiring) reverse (right): 
+Forward (left) and (possibly the only true reason requiring) reverse (right): </br>
 
 <img src="https://user-images.githubusercontent.com/33831624/110613204-47379c80-8191-11eb-9ff5-1eb19806b70b.gif" height="300" />
 <img src="https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg" height="300" />
