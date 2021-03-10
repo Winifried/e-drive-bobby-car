@@ -21,9 +21,12 @@ However, somehow the motor control did not work out very well and got super hot 
 
 ## Version 2: Forward, Backward, full speed
 This is essentially the above described version without motor controller, so it will only go full speed - forward and backwards. 
+<img src= "https://user-images.githubusercontent.com/33831624/110661228-a2cf4d80-81c4-11eb-915d-e4140f901589.jpg" height="500" />
+
 
 ## Version 3: Forward, Motor Control
-The potentiometer broke and essentially there is not much need for a backward gear and I still had a motor controller available. Version 3 thus lost its ability to go backwards but when going forwards you can at least control your speed. 
+The battery turned dead, the acceleration potentiometer broke and essentially there is not much need for a backward gear and I still had a motor controller available. This is why version 3 thus lost its ability to go backwards but when going forwards you can at least control your speed. 
+<img scr="https://user-images.githubusercontent.com/33831624/110661537-f3df4180-81c4-11eb-83d7-f1890f5886a7.jpg" height="500" />
 
 
 
