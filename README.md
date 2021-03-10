@@ -40,7 +40,6 @@ Check the subfolder 'parts' for the 3D printed additions and more details.
 | battery  	|  - 	|  12V 5Ah [Maxtuned SLA4L-BS Lead Acid] 	| 12V 5Ah [Maxtuned SLA4L-BS Lead Acid]  	| 12 V 9.8Ah [VariCore  Li-Ion] 	|
 | speed control  	|  - 	| Foxnovo 6V-90V 15A DC Motor Speed Controller Switch  	|  none 	| DC Brush Motor Speed Control PWM XY-L-1240 12 V 	|
 | engine 	|  12V 100 Watt 2700 RPM (7 tooth sprocket wheel) [option: 12v/24V] 	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
 
 
-Of note: I didn't find an appropriate metal for the undercarriage and reused the available plastic (very old bobby-car classic version with thick plastic bottom). But this is not something I can recommend. A solid undercarriage is essential to allow full speed. Otherwise, depending on the drivers weight, there is too much bending force on the back axle, reducing the final speed and potentially creating heat... 
+
