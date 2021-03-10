@@ -11,8 +11,12 @@ Heres the setup:
 
 Heres the car going forward:
 
+![forward](https://user-images.githubusercontent.com/33831624/110613204-47379c80-8191-11eb-9ff5-1eb19806b70b.gif)
+
+
 This may be the only true reason requiring "reverse"...
 
+![backwards](https://user-images.githubusercontent.com/33831624/110613161-39821700-8191-11eb-8a53-555f46a0e734.gif)
 
 However, somehow the motor control did not work out very well and got super hot (which is bad as it was attached to plastic). So I created Version 2. 
 
@@ -27,12 +31,13 @@ The potentiometer broke and essentially there is not much need for a backward ge
 ## Hardware parts list 
 Check the subfolder 'parts' for the 3D printed additions and more details. 
 
+
 |  component 	|   included in all versions |  Version 1  	| Version 2    	| Version 3    	|
 |:-:	|:-:	|:-:	|:-:	|---	|
 | board  	| arduino uno    	|   	|   	|   	|
 | lights  	|  4 LED (front: 2 white, rear: 2 red) 	|   	|   	|   	|
 | battery  	|  - 	|  12V 5Ah [Maxtuned SLA4L-BS] 	| 12V 5Ah [Maxtuned SLA4L-BS]  	| ....  	|
-| speed control  	|  - 	| Foxnovo 6V-90V 15A DC Motor Speed Controller Switch  	|  none 	| ...  	|
+| speed control  	|  - 	| Foxnovo 6V-90V 15A DC Motor Speed Controller Switch  	|  none 	| DC Brush Motor Speed Control PWM XY-L-1240 12 V 	|
 | engine 	|  12V 100 Watt 2700 RPM (7 tooth sprocket wheel) [option: 12v/24V] 	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 
