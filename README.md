@@ -1,3 +1,4 @@
+
 # e-drive-bobby-car
 Bobby car with electric motor - hardware, sofware and how it was put together. 
 
@@ -8,7 +9,7 @@ This was my first attempt. The car essentially has, next to the stearing wheel, 
 
 Heres the setup:
   
-
+![BobbyCar_V1](https://user-images.githubusercontent.com/33831624/110627134-e19fdc00-81a1-11eb-9b3a-0afb23bc811d.jpg)
 
 
 Forward (left) and (possibly the only true reason requiring) reverse (right): </br>
