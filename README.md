@@ -7,18 +7,12 @@ I always wanted to refurbish a car, now I refurbished my old bobby-car adding an
 This was my first attempt. The car essentially has, next to the stearing wheel, one major power switch for safety, an "ignition key" which turns on the front and rear lights and a trottle control. Depending on the position of the trottle the car is in "neutral" (middle), "reverse" (below neutral) or "drive" (above neutral). The distance from the middle position determines the motor speed. 
 
 Heres the setup:
-
-![final_car](https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg)
-
-
-Heres the car going forward:
-
-![forward](https://user-images.githubusercontent.com/33831624/110613204-47379c80-8191-11eb-9ff5-1eb19806b70b.gif)
+<center>
+![final_car](https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg) {width=50% } </center>
 
 
-This may be the only true reason requiring "reverse"...
-
-![backwards](https://user-images.githubusercontent.com/33831624/110613161-39821700-8191-11eb-8a53-555f46a0e734.gif)
+Forward (left) and (possibly the only true reason requiring) reverse (right) <br>
+![forward](https://user-images.githubusercontent.com/33831624/110613204-47379c80-8191-11eb-9ff5-1eb19806b70b.gif) ![backwards](https://user-images.githubusercontent.com/33831624/110613161-39821700-8191-11eb-8a53-555f46a0e734.gif)
 
 However, somehow the motor control did not work out very well and got super hot (which is bad as it was attached to plastic). So I created Version 2. 
 
