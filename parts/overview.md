@@ -23,3 +23,6 @@
 *wood arrangements*
 * throttle
 * car key
+
+
+Of note: I didn't find an appropriate metal for the undercarriage and reused the available plastic (very old bobby-car classic version with thick plastic bottom). But this is not something I can recommend. A solid undercarriage is essential to allow full speed. Otherwise, depending on the drivers weight, there is too much bending force on the back axle, reducing the final speed and potentially creating heat... 
