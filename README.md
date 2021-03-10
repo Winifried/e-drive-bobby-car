@@ -8,6 +8,8 @@ This was my first attempt. The car essentially has, next to the stearing wheel, 
 
 Heres the setup:
 
+![final_car](https://user-images.githubusercontent.com/33831624/110617289-ca5af180-8195-11eb-98bc-2534d798c904.jpg)
+
 
 Heres the car going forward:
 
@@ -36,7 +38,7 @@ Check the subfolder 'parts' for the 3D printed additions and more details.
 |:-:	|:-:	|:-:	|:-:	|---	|
 | board  	| arduino uno    	|   	|   	|   	|
 | lights  	|  4 LED (front: 2 white, rear: 2 red) 	|   	|   	|   	|
-| battery  	|  - 	|  12V 5Ah [Maxtuned SLA4L-BS] 	| 12V 5Ah [Maxtuned SLA4L-BS]  	| ....  	|
+| battery  	|  - 	|  12V 5Ah [Maxtuned SLA4L-BS Lead Acid] 	| 12V 5Ah [Maxtuned SLA4L-BS Lead Acid]  	| 12 V 9.8Ah [VariCore  Li-Ion] 	|
 | speed control  	|  - 	| Foxnovo 6V-90V 15A DC Motor Speed Controller Switch  	|  none 	| DC Brush Motor Speed Control PWM XY-L-1240 12 V 	|
 | engine 	|  12V 100 Watt 2700 RPM (7 tooth sprocket wheel) [option: 12v/24V] 	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
