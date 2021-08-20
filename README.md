@@ -25,7 +25,8 @@ This is essentially the above described version without motor controller, so it 
 
 
 ## Version 3: Forward, Motor Control
-The battery turned dead, the acceleration potentiometer broke and essentially there is not much need for a backward gear and I still had a motor controller available. This is why version 3 thus lost its ability to go backwards but when going forwards you can at least control your speed. 
+The battery turned dead, the acceleration potentiometer broke and essentially there is not much need for a backward gear and I still had a motor controller available. This is why version 3 thus lost its ability to go backwards but when going forwards you can at least control your speed.
+![BobbyV3_final](https://user-images.githubusercontent.com/33831624/130289316-952c0cff-424e-4434-8988-769fcf7017d5.gif)
 
 <img src= "https://user-images.githubusercontent.com/33831624/110661537-f3df4180-81c4-11eb-83d7-f1890f5886a7.jpg" height="500" />
 
